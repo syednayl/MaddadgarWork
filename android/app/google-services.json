@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "865123601040",
+    "project_id": "maddadgar-354bb",
+    "storage_bucket": "maddadgar-354bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865123601040:android:61a544a08327c6542be615",
+        "android_client_info": {
+          "package_name": "com.maddadgarwork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865123601040-lvg4ck3ah1be3c196hj3aj5esb9437a2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkZ03gb2d5ZC41ml3GWZ3KDgNy-RuhRNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865123601040-lvg4ck3ah1be3c196hj3aj5esb9437a2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
