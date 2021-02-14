@@ -24,6 +24,34 @@ import {
   ReloadInstructions,
 } from 'react-native/Libraries/NewAppScreen';
 
+// FirebaseFirestore db = FirebaseFirestore.getInstance();
+// Map<String, Object> user = new HashMap<>();
+// user.put("age", );
+// user.put("cnic", 4220184786666);
+// user.put("email", "sherry@gmail.com");
+// user.put("fullname","Shehreyar")
+// // Add a new document with a generated ID
+// db.collection("Customers")
+//         .add(user)
+//         .addOnSuccessListener(new OnSuccessListener<DocumentReference>() {
+//             @Override
+//             public void onSuccess(DocumentReference documentReference) {
+//                 Log.d(TAG, "DocumentSnapshot added with ID: " + documentReference.getId());
+//             }
+//         })
+//         .addOnFailureListener(new OnFailureListener() {
+//             @Override
+//             public void onFailure(@NonNull Exception e) {
+//                 Log.w(TAG, "Error adding document", e);
+//             }
+//         });
+
+
+
+
+
+
+
 const App: () => React$Node = () => {
   return (
     <>
